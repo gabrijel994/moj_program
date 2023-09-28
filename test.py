@@ -10,3 +10,6 @@ print("Zbroj je =", c)
 print("Umnožak je=", d)
 print("a/b je=", e)
 print("Ukupan rezultat iznosi=", g)
+
+gg = input("ovo je proba")
+print (g)
