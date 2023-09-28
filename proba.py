@@ -26,11 +26,20 @@
 # znak=ord(Unesite_znak)
 # print("Vas znak",Unesite_znak,"ASCII kod",znak)
 
-a=int(input("Enetr the number:"))
-if a > 5:
-    print("Your number is bigger then 5")
-if a < 5:
-    print("Your number is smaller then 5")
-else:
-    print("Your number is 5")
-#test
+# a=int(input("Enetr the number:"))
+# if a > 5:
+#     print("Your number is bigger then 5")
+# if a < 5:
+#     print("Your number is smaller then 5")
+# else:
+#     print("Your number is 5")
+
+
+#Napisat program koji ispisuje rezultat na temelju izraza x=b**2-4ac
+
+# a=float(input("Unesi vrijednost broja a:"))
+# b=float(input("Unesi vrijednost broja b:"))
+# c=int(input("Unesi vrijednost broja c:"))
+
+# x=b**2-4*a*c
+# print("Dobivena vrijednost iznosi:", int(x), "Tvoj rezultat je cijeli broj")
